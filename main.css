@@ -3,4 +3,31 @@
     padding: 0;
     box-sizing: border-box;
 }
-.  { }
+img {
+    width: 500px; 
+    height: 300px; 
+    object-fit: cover; 
+  }
+  .cabeçario ul {
+    padding: 0;
+    margin: 0;
+  }
+  .cabeçario li {
+    display: inline-block;
+    margin-right: 10px; 
+  }
+    .Animes {background-color: rgb(121, 121, 221);
+
+    }
+
+    * {text-align: center;
+    }
+    .esportes {background-color: aquamarine;
+    }
+    .Politica {background-color: blanchedalmond;
+    }
+    .Economia {background-color: rgb(118, 156, 189);}
+
+    
+    
+    
